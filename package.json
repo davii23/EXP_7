@@ -2,7 +2,7 @@
   "name": "react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "",
+  "homepage": "https://davii23.github.io/EXP_7/",
   "type": "module",
   "scripts": {
     "dev": "vite",
